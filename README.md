@@ -1,5 +1,9 @@
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
+
+![coverage badge](./coverage.svg)
+
+
 # Jekyll theme: Adam Blog 2.0
 by [Armando Maynez](https://github.com/amaynez) based on [V1.0](https://github.com/artemsheludko/adam-blog) by [Artem Sheludko](https://github.com/artemsheludko). 
 
